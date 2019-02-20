@@ -1,12 +1,12 @@
 {
-    "name": "heydon/robo-twig",
+    "name": "avanade-dis/robo-twig",
     "description": "Allow the processing of templates via robo",
     "type": "robo-tasks",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Gordon Heydon",
-            "email": "gordon@heydon.com.au"
+            "name": "Brendan Sainsbury",
+            "email": "brendan.sainsbury@avanade.com"
         }
     ],
     "minimum-stability": "dev",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Heydon\\Robo\\Task\\": "src"
+            "Avanade\\Robo\\Task\\": "src"
         }
     },
     "config": {
