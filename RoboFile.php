@@ -3,7 +3,7 @@
 class RoboFile extends \Robo\Tasks
 {
 
-  use \Heydon\Robo\Task\Twig\loadTasks;
+  use \Avanade\Robo\Task\Twig\loadTasks;
 
   public function templateArray() {
     $this->taskTwig()

@@ -1,6 +1,6 @@
 <?php
 
-namespace Heydon\Robo\Task;
+namespace Avanade\Robo\Task;
 
 use Robo\Common\TaskIO;
 use Robo\Exception\TaskException;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Heydon\Robo\Task\Twig;
+namespace Avanade\Robo\Task\Twig;
 
-use Heydon\Robo\Task\Twig;
+use Avanade\Robo\Task\Twig;
 
 trait loadTasks {
 
